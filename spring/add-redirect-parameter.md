@@ -5,7 +5,9 @@ When the return value contains redirect: prefix, the viewResolver recognizes thi
 You can write a handler method like this to handle the redirect request:
 ```
 @RequestMapping(value="/home", method = RequestMethod.GET )
-public String showHomePage()  {
+public String showHomePage(ModelMap model)  {
+    String message = (String)model.get("message");
+    model.addAttribute("message", message);
     return "home";
 }
 ```
