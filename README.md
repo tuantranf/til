@@ -7,7 +7,7 @@
 
 ### Categories
 
-- [Bash](bash)
+- [Bash](command)
 - [Git](git)
 - [HTML](html)
 - [Internet](internet)
@@ -20,7 +20,6 @@
 - [Testing](testing)
 - [Sublime Text](sublime)
 - [Spring](spring)
-- [Javascript](javascript)
 
 ---
 
