@@ -8,6 +8,7 @@
 
 ### Categories
 
+- [AWS](aws)
 - [Bash](command)
 - [Git](git)
 - [HTML](html)
