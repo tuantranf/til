@@ -13,3 +13,7 @@ java -jar -Xmx2G -Xms2G -Djsse.enableSNIExtension=false -jar $(ls -t $BURP_SUITE
 
 Replace BURP_SUITE_DIR, $BURP_SUITE_VERSION with your burp suite information.
 
+Debug by [Run]
+
+Export apllication File > Export > Where you want to place it
+
