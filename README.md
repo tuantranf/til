@@ -10,6 +10,7 @@
 
 - [AWS](aws)
 - [Bash](command)
+- [Burp Suite](burp-suite)
 - [Git](git)
 - [HTML](html)
 - [Internet](internet)
